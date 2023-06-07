@@ -7,7 +7,8 @@
 
 - 📫 You can reach me at imsn52003@gmail.com
 ## 🌐 Socials:
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/asma-jalilian-03657a276/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/
+asmajalilian)
 
 
 # 📊 GitHub Stats:
